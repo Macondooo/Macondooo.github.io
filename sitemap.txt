@@ -1,0 +1,4 @@
+http://example.com/categories/index.html
+http://example.com/tags/index.html
+http://example.com/2023/04/05/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E8%BF%99%E9%87%8C%E6%98%AFgululululu%E7%9A%84%E5%AE%B6/
+http://example.com/

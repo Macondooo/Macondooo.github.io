@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>gululululu的家</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2023-04-05T12:31:04.385Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Macondooo</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>你好，这里是gululululu的家</title>
+    <link href="http://example.com/2023/04/05/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E8%BF%99%E9%87%8C%E6%98%AFgululululu%E7%9A%84%E5%AE%B6/"/>
+    <id>http://example.com/2023/04/05/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E8%BF%99%E9%87%8C%E6%98%AFgululululu%E7%9A%84%E5%AE%B6/</id>
+    <published>2023-04-05T12:29:54.000Z</published>
+    <updated>2023-04-05T12:31:04.385Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
