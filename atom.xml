@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-04-05T12:31:04.385Z</updated>
+  <updated>2023-04-05T15:57:41.250Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>加密测试</title>
+    <link href="http://example.com/2023/04/05/%E5%8A%A0%E5%AF%86%E6%B5%8B%E8%AF%95/"/>
+    <id>http://example.com/2023/04/05/%E5%8A%A0%E5%AF%86%E6%B5%8B%E8%AF%95/</id>
+    <published>2023-04-05T15:44:35.000Z</published>
+    <updated>2023-04-05T15:57:41.250Z</updated>
+    
+    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="Oh, these decrypted content cannot be verified, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="a0484e121afb91f55dbfe5fbbf49bf15948fa4160fb112a16b2f5837af95027d">d487681aaaf83ad3d73bf71df4b21306388bb7935d03982b4d2d416a9ea4c36fcaf6d1adc344c5b0b287e7ccf6b7dcfc27a62fe2052ea4acdb061d0e9896da49133fae17648d17ffbc3b9e5d616610ad</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-xray">      <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-xray" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-xray">Hey, password is required here.</span>      </label>      <svg class="hbe hbe-graphic hbe-graphic-xray" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>        <path d="M0,2.5c0,0,298.666,0,399.333,0C448.336,2.5,513.994,13,597,13c77.327,0,135-10.5,200.999-10.5c95.996,0,402.001,0,402.001,0"></path>      </svg>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+    
+    
+    <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
+    
+    
+    
+    
+    <category term="private" scheme="http://example.com/tags/private/"/>
+    
+  </entry>
   
   <entry>
     <title>你好，这里是gululululu的家</title>
